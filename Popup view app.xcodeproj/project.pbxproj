@@ -11,6 +11,7 @@
 		582FFE1B29B94B3E0031313E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582FFE1A29B94B3E0031313E /* ContentView.swift */; };
 		582FFE1D29B94B3F0031313E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 582FFE1C29B94B3F0031313E /* Assets.xcassets */; };
 		582FFE2029B94B3F0031313E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 582FFE1F29B94B3F0031313E /* Preview Assets.xcassets */; };
+		582FFE2B29B9554A0031313E /* airpods-max.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 582FFE2A29B9554A0031313E /* airpods-max.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		582FFE1A29B94B3E0031313E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		582FFE1C29B94B3F0031313E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		582FFE1F29B94B3F0031313E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		582FFE2A29B9554A0031313E /* airpods-max.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "airpods-max.usdz"; path = "../../../Downloads/airpods-max.usdz"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				582FFE1829B94B3E0031313E /* Popup_view_appApp.swift */,
 				582FFE1A29B94B3E0031313E /* ContentView.swift */,
 				582FFE1C29B94B3F0031313E /* Assets.xcassets */,
+				582FFE2A29B9554A0031313E /* airpods-max.usdz */,
 				582FFE1E29B94B3F0031313E /* Preview Content */,
 			);
 			path = "Popup view app";
@@ -127,6 +130,7 @@
 			files = (
 				582FFE2029B94B3F0031313E /* Preview Assets.xcassets in Resources */,
 				582FFE1D29B94B3F0031313E /* Assets.xcassets in Resources */,
+				582FFE2B29B9554A0031313E /* airpods-max.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
